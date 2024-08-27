@@ -12,5 +12,5 @@
 
 <h3>💻💬🎲Link do resultado final do projeto:</h3>
 <div>
-  https://challenge-frontend-alura-gray.vercel.app/
+  https://jogo-ten-delta-35.vercel.app/
 </div>
